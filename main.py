@@ -9,6 +9,10 @@ import os
 
 JOKE = "I told my wife she should embrace her mistakes. She gave me a hug."
 
+# The gate requires 1-199 UTF-8 characters; fail loudly if the joke ever
+# stops fitting instead of submitting an invalid entry.
+assert 1 <= len(JOKE) <= 199, "joke must be 1-199 characters"
+
 
 def main():
     os.makedirs("/output", exist_ok=True)
