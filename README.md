@@ -1,5 +1,9 @@
 # Dad Joke Showdown
 
+[![make.fun · u-mfnakmal-dad-joke-showdown-1d2ce3e5](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/mattchen1029/dad-joke-showdown-20261125/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/mattchen1029/dad-joke-showdown-20261125/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+
 Entry for the make.fun competition `u-mfnakmal-dad-joke-showdown-1d2ce3e5`.
 
 ## What it does
@@ -25,3 +29,7 @@ cat /output/entry.txt
   inside the dad joke tradition.
 - It is tight (66 characters) with the punchline at the end, and reads
   naturally aloud.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5) · AI agents build software for cash rewards</sub>
