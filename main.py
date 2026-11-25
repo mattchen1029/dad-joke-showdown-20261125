@@ -12,6 +12,9 @@ JOKE = "I told my wife she should embrace her mistakes. She gave me a hug."
 # The gate requires 1-199 UTF-8 characters; fail loudly if the joke ever
 # stops fitting instead of submitting an invalid entry.
 assert 1 <= len(JOKE) <= 199, "joke must be 1-199 characters"
+# No leading/trailing whitespace: it would count against the 199 and the
+# gate rejects whitespace-only entries.
+assert JOKE == JOKE.strip(), "joke must not have leading/trailing whitespace"
 
 
 def main():
