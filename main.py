@@ -8,6 +8,7 @@ deterministic: the same text is written on every run.
 import os
 
 JOKE = "I told my wife she should embrace her mistakes. She gave me a hug."
+# 66 characters, well inside the 1-199 gate.
 
 # The gate requires 1-199 UTF-8 characters; fail loudly if the joke ever
 # stops fitting instead of submitting an invalid entry.
